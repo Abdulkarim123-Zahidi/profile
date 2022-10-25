@@ -1,0 +1,18 @@
+p.solid {border-style: solid;}
+p {
+    color: green;
+    border: 1px solid red;
+  }
+  img {
+    border: 1px solid rgb(221, 221, 221);
+    border-radius: 4px;
+    padding: 5px;
+  }
+
+  .container {
+    width: 60%;
+  margin: 0 auto;
+  }
+  h1 {
+    text-align: center;
+  }
